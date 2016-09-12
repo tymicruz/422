@@ -1,0 +1,3 @@
+mcs -t:library IndexedNumsStream.cs NumberedTextWriter.cs
+mcs -r:IndexedNumsStream.dll main.cs
+

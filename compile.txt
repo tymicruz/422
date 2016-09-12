@@ -1,0 +1,2 @@
+mcs -t:library ProgramLib.cs
+mcs -r:ProgramLib.dll Program.cs
